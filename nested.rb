@@ -81,10 +81,10 @@ def adding_matz
           :languages => ["C"]
         }
      }
-x =:yukihiro_matsumoto => {
+x = :yukihiro_matsumoto => {
   :known_for => "Ruby",
     :languages => ["LISP", "C"]
-    x.merge
+    x.merge 
 }
     
 end
